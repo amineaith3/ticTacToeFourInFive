@@ -1,0 +1,102 @@
+
+h1 {
+    color: orangered;
+    font-size: 30px;
+}
+
+#b1,
+#b2,
+#b3,
+#b4,
+#b5,
+#b6,
+#b7,
+#b8,
+#b9,
+#b10,
+#b11,
+#b12,
+#b13,
+#b14,
+#b15,
+#b16,
+#b17,
+#b18,
+#b19,
+#b20,
+#b21,
+#b22,
+#b23,
+#b24,
+#b25 {
+    width: 40px;
+    height: 42px;
+    margin: auto;
+    border: 1px solid rgb(17, 6, 116);
+    border-radius: 6px;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(0, 247, 255);
+}
+
+#but {
+    box-sizing: border-box;
+    width: 85px;
+    height: 40px;
+    border: 1px solid rgb(17, 138, 175);
+    margin: auto;
+    border-radius: 4px;
+    font-family: Verdana,
+        Geneva, Tahoma, sans-serif;
+
+    background-color: cornflowerblue;
+    color: rgb(14, 13, 13);
+    font-size: 20px;
+    cursor: copy;
+}
+
+#print {
+    font-family: Verdana,
+        Geneva, Tahoma, sans-serif;
+
+    color: rgb(156, 92, 216);
+    font-size: 17px;
+}
+
+
+#main {
+    text-align: center;
+}
+
+#ins {
+    font-family: Verdana,
+        Geneva, Tahoma, sans-serif;
+
+    color: rgba(35, 65, 240, 0.65);
+    font-size: 17px;
+}
+
+#compil {
+    font-family: Verdana,
+        Geneva, Tahoma, sans-serif;
+
+    color: rgba(129, 214, 214, 0.65);
+    font-size: 17px;
+}
+
+
+footer {
+    text-align: center;
+    color: black;
+}
+
+.compil{
+    color: black;
+    font-style: italic;
+    text-decoration: none; /* Remove underline */
+}
+
+a:visited {
+    color: black;
+    text-decoration: dashed;
+}
